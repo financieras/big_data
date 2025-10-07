@@ -7,7 +7,7 @@
 ## **BLOQUE 1: INTRODUCCIÓN AL ECOSISTEMA DE DATOS**
 - **Tema 1.1: Fundamentos del Ecosistema de Datos**
   - Lección 1.1.1: Definición y características del Big Data
-  - Lección 1.1.2: Historia breve y evolución del ecosistema de datos
+  - Lección 1.1.2: Historia y evolución del ecosistema de datos
   - Lección 1.1.3: Roles: Analista de Datos, Científico de Datos, Ingeniero de Datos
   - Lección 1.1.4: Ciclo de vida de los datos en una organización
 - **Tema 1.2: Casos de Uso Relevantes**
