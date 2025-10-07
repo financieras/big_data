@@ -1,6 +1,6 @@
 # Ingeniería y Análisis de Datos
-- Temario del curso de especialización
 - Enfoque moderno en el ecosistema de datos
+- Temario del curso de especialización
 
 ---
 
@@ -8,20 +8,21 @@
 - **Tema 1.1: Fundamentos del Ecosistema de Datos**
   - Lección 1.1.1: Definición y características del Big Data
   - Lección 1.1.2: Historia breve y evolución del ecosistema de datos
-  - Lección 1.1.3: Roles principales: Analista de Datos, Científico de Datos, Ingeniero de Datos
+  - Lección 1.1.3: Roles: Analista de Datos, Científico de Datos, Ingeniero de Datos
   - Lección 1.1.4: Ciclo de vida de los datos en una organización
 - **Tema 1.2: Casos de Uso Relevantes**
   - Lección 1.2.1: Aplicaciones en sectores cotidianos (finanzas, retail, salud)
   - Lección 1.2.2: Identificación de oportunidades de datos en el negocio
-  - Lección 1.2.3: Aspectos éticos y legales básicos (GDPR introductorio)
-- **Tema 1.3: Herramientas Básicas para Datos**
-  - Lección 1.3.1: Introducción a Python como lenguaje principal
-  - Lección 1.3.2: Excel para análisis inicial (tablas dinámicas)
-  - Lección 1.3.3: Conceptos de bases de datos (SQL vs NoSQL)
+  - Lección 1.2.3: Aspectos éticos y legales (GDPR y privacidad)
+- **Tema 1.3: Herramientas para Datos**
+  - Lección 1.3.1: Lenguaje Python
+  - Lección 1.3.2: Excel: fórmulas, estadística
+  - Lección 1.3.3: Excel para análisis: tablas dinámicas, gráficos
+  - Lección 1.3.4: Conceptos de bases de datos (SQL vs NoSQL)
 
 ## **BLOQUE 2: ANÁLISIS DE DATOS Y VISUALIZACIÓN**
 - **Tema 2.1: Análisis Exploratorio de Datos (EDA)**
-  - Lección 2.1.1: Metodología básica de EDA
+  - Lección 2.1.1: Metodología de EDA
   - Lección 2.1.2: Manipulación de datos con Pandas (lectura, limpieza)
   - Lección 2.1.3: Detección de patrones y outliers
   - Lección 2.1.4: Relaciones entre variables (correlaciones)
@@ -30,6 +31,7 @@
   - Lección 2.2.2: Visualizaciones estadísticas con Seaborn
   - Lección 2.2.3: Creación de dashboards
   - Lección 2.2.4: Storytelling con datos (comunicación de insights)
+  - Lección 2.2.5: Evitar gráficos engañosos (escalas, claridad, honestidad)
 - **Tema 2.3: Herramientas de BI**
   - Lección 2.3.1: Power BI y Tableau (conexión y visualizaciones)
   - Lección 2.3.2: Comparativa con Python
@@ -41,7 +43,7 @@
 
 ## **BLOQUE 3: FUNDAMENTOS DE CIENCIA DE DATOS**
 - **Tema 3.1: Estadística Descriptiva**
-  - Lección 3.1.1: Medidas de tendencia central (media, mediana)
+  - Lección 3.1.1: Medidas de tendencia central (media, mediana, moda)
   - Lección 3.1.2: Medidas de dispersión (varianza, desviación estándar)
   - Lección 3.1.3: Distribuciones (uniforme, normal)
   - Lección 3.1.4: Análisis con NumPy y Pandas
@@ -49,17 +51,17 @@
   - Lección 3.2.1: Conceptos de probabilidad (eventos, reglas)
   - Lección 3.2.2: Correlación vs causalidad
   - Lección 3.2.3: Interpretación de resultados en contextos de datos
-- **Tema 3.3: Análisis Aplicado**
-  - Lección 3.3.1: Integración de estadística en EDA
-  - Lección 3.3.2: Casos prácticos en Python
-  - Lección 3.3.3: Limitaciones y errores comunes
+- **Tema 3.3: Inferencia Estadística**
+  - Lección 3.3.1: Muestreo y estimación (intervalos de confianza)
+  - Lección 3.3.2: Pruebas de hipótesis (z-test, t-test con scipy.stats)
+  - Lección 3.3.3: Aplicaciones prácticas de inferencia
 - **Tema 3.4: Datos No Estructurados**
   - Lección 3.4.1: Procesamiento de texto y JSON
   - Lección 3.4.2: Limpieza simple de datos no estructurados
 
 ## **BLOQUE 4: INGENIERÍA DE DATOS**
 - **Tema 4.1: Almacenamiento de Datos**
-  - Lección 4.1.1: Bases de datos relacionales básicas (SQL: SELECT, WHERE, JOIN)
+  - Lección 4.1.1: Bases de datos relacionales (SQL: SELECT, WHERE, JOIN)
   - Lección 4.1.2: Introducción a NoSQL (tipos, casos de uso)
   - Lección 4.1.3: Data Warehouses, Data Lakes, Data Lakehouse
   - Lección 4.1.4: Formatos básicos (CSV, Parquet)
@@ -68,6 +70,7 @@
   - Lección 4.2.1: ETL/ELT
   - Lección 4.2.2: Pipelines con Python (PySpark)
   - Lección 4.2.3: Ingesta de datos (batch vs streaming)
+  - Lección 4.2.4: Web scraping y APIs (requests, BeautifulSoup)
 - **Tema 4.3: Calidad y Gobernanza**
   - Lección 4.3.1: Validación de datos
   - Lección 4.3.2: Limpieza y deduplicación
@@ -84,7 +87,7 @@
 - **Tema 5.2: Implementación**
   - Lección 5.2.1: Recolección y análisis de datos
   - Lección 5.2.2: Visualización y reporting
-  - Lección 5.2.3: Testing básico
+  - Lección 5.2.3: Testing
 - **Tema 5.3: Presentación**
-  - Lección 5.3.1: Comunicación de resultados
-  - Lección 5.3.2: Lecciones aprendidas
+  - Lección 5.3.1: Creación de una narrativa de datos (Data Story)
+  - Lección 5.3.2: Presentación profesional y lecciones aprendidas
