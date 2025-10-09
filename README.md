@@ -16,8 +16,8 @@
   - Lección 1.2.3: Aspectos éticos y legales (GDPR y privacidad)
 - **Tema 1.3: Herramientas para Datos**
   - Lección 1.3.1: Lenguaje Python
-  - Lección 1.3.2: Excel: fórmulas, estadística
-  - Lección 1.3.3: Excel para análisis: tablas dinámicas, gráficos
+  - Lección 1.3.2: Excel: Estructura de Datos y Funciones
+  - Lección 1.3.3: Análisis y Reporte con Excel: Pivot Tables y Visualización
   - Lección 1.3.4: Conceptos de bases de datos (SQL vs NoSQL)
 
 ## **BLOQUE 2: ANÁLISIS DE DATOS Y VISUALIZACIÓN**
