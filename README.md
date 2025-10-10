@@ -13,13 +13,13 @@
 - **Tema 1.2: Casos de Uso Relevantes**
   - Lección 1.2.1: Los datos en sectores clave: finanzas, retail, salud y otros
   - Lección 1.2.2: Identificación de oportunidades de datos en el negocio
-  - Lección 1.2.3: Aspectos éticos y legales (GDPR y privacidad)
+  - Lección 1.2.3: Aspectos éticos y legales: GDPR y privacidad
 - **Tema 1.3: Herramientas para Datos**
-  - Lección 1.3.1: Python para datos 
+  - Lección 1.3.1: Python para Datos 
   - Lección 1.3.2: Excel: Estructura de Datos y Funciones
   - Lección 1.3.3: Análisis y Reporte con Excel: Pivot Tables y Visualización
   - Lección 1.3.4: Conceptos de bases de datos (SQL vs NoSQL)
-  - Lección 1.3.5: BigQuery y entornos cloud básicos (Google Sheets)
+  - Lección 1.3.5: BigQuery y Google Sheets: Análisis de Datos en la Nube
 
 ## **BLOQUE 2: ANÁLISIS DE DATOS Y VISUALIZACIÓN**
 - **Tema 2.1: Análisis Exploratorio de Datos (EDA)**
