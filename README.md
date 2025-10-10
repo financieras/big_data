@@ -19,6 +19,7 @@
   - Lección 1.3.2: Excel: Estructura de Datos y Funciones
   - Lección 1.3.3: Análisis y Reporte con Excel: Pivot Tables y Visualización
   - Lección 1.3.4: Conceptos de bases de datos (SQL vs NoSQL)
+  - Lección 1.3.5: Google Sheets y BigQuery
 
 ## **BLOQUE 2: ANÁLISIS DE DATOS Y VISUALIZACIÓN**
 - **Tema 2.1: Análisis Exploratorio de Datos (EDA)**
@@ -33,9 +34,10 @@
   - Lección 2.2.4: Storytelling con datos (comunicación de insights)
   - Lección 2.2.5: Evitar gráficos engañosos (escalas, claridad, honestidad)
 - **Tema 2.3: Herramientas de BI**
-  - Lección 2.3.1: Power BI y Tableau (conexión y visualizaciones)
-  - Lección 2.3.2: Comparativa con Python
-  - Lección 2.3.3: Aplicaciones en reportes empresariales
+  - Lección 2.3.1: Tableau (conexión y visualizaciones)
+  - Lección 2.3.2: Power BI (conexión y visualizaciones)
+  - Lección 2.3.3: Comparativa con Python
+  - Lección 2.3.4: Aplicaciones en reportes empresariales
 - **Tema 2.4: Análisis de Datos Geoespaciales**
   - Lección 2.4.1: Conceptos de datos geo
   - Lección 2.4.2: Mapas con Folium
